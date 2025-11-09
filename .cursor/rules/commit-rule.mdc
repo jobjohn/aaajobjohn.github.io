@@ -1,7 +1,5 @@
 ---
-description: 
-globs: 
-alwaysApply: false
+alwaysApply: true
 ---
 コミットメッセージは完結でわかりやすく日本語で記載してください。    
 
